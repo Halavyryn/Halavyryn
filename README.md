@@ -9,9 +9,6 @@ I have the skills: 1) HTML, CSS, Javascript, JQuery; 2) I make up according to t
 * 🌍  I'm based in Belarus, Novopolotsk
 * ✉️  You can contact me at [andreihalavyryn@gmail.com](mailto:andreihalavyryn@gmail.com)
 
-<a href="https://www.github.com/Halavyryn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Halavyryn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
