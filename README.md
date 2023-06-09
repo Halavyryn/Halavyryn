@@ -6,11 +6,10 @@ I'm a web developer. Work with HTML, CSS, & JavaScript
 
 I have the skills: 1) HTML, CSS, Javascript, JQuery; 2) I make up according to the BEM methodology, adaptively and cross-browser; 3) I use Figma and Photoshop programs to view and cut site layouts; 4) worked with CMS Wordpress and Joomla and their plugins. I have a good knowledge of the Elementor plugin. There is a project implemented on Wordpress using the Elementor plugin http://zovrech.online/ 5) I have basic knowledge and understanding of languages (PHP, MySQL). 6) I study SEO promotion
 
-* 🌍  I'm based in Belarus, Novopolotsk
-* ✉️  You can contact me at [andreihalavyryn@gmail.com](mailto:andreihalavyryn@gmail.com)
+* 🌍  I'm based in Belarus, Novopolotsk
+* ✉️  You can contact me at [andreihalavyryn@gmail.com](mailto:andreihalavyryn@gmail.com)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -26,11 +25,9 @@ I have the skills: 1) HTML, CSS, Javascript, JQuery; 2) I make up according to t
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Halavyryn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
+<p align="left"> <a href="https://www.github.com/Halavyryn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andrei-halavyryn-82730427a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <a href="https://github.com/Halavyryn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halavyryn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
