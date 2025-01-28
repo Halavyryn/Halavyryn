@@ -5,30 +5,30 @@ My name is Andrei Halavyryn, and I am a IT Analyst with experience in designing,
 ### 🛠 Skills and Technologies
 
 # Documentation:
-Writing User Stories and Use Cases.
-Updating documentation.
-Creating REST API specifications using Swagger.
+Writing User Stories and Use Cases.<br>
+Updating documentation.<br>
+Creating REST API specifications using Swagger.<br>
 
-## Diagrams and Modeling:
-Sequence diagrams, Use Case diagrams, BPMN, ERD.
-Tools: Draw.io, Lucidchart, Visio.
+# Diagrams and Modeling:
+Sequence diagrams, Use Case diagrams, BPMN, ERD.<br>
+Tools: Draw.io, Lucidchart, Visio.<br>
 
-## Database Design:
-Working with PostgreSQL and MySQL.
-Editing ER diagrams.
+# Database Design:
+Working with PostgreSQL and MySQL.<br>
+Editing ER diagrams.<br>
 
-## Integrations:
-REST API, Apache Kafka (message broker).
-Describing methods, services, status codes, and JSON document structures.
+# Integrations:
+REST API, Apache Kafka (message broker).<br>
+Describing methods, services, status codes, and JSON document structures.<br>
 
-##Testing:
-API testing using Postman.
+# Testing:
+API testing using Postman.<br>
 
-##Interface Prototyping:
-Tools: Figma, Axure RP, Balsamiq.
-Developing and maintaining interfaces using HTML5 and CSS3.
+# Interface Prototyping:
+Tools: Figma, Axure RP, Balsamiq.<br>
+Developing and maintaining interfaces using HTML5 and CSS3.<br>
 
-##Project Management:
+# Project Management:
 Organizing workflows in Jira.
 Maintaining documentation in Confluence.
 Applying Agile methodologies (Scrum, Kanban).
