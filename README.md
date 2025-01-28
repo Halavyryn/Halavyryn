@@ -1,51 +1,36 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrei Halavyryn
 ========================================================================================================================================
 My name is Andrei Halavyryn, and I am a IT Analyst with experience in designing, documenting, and optimizing processes. Here, you'll find examples of my work, projects, and the skills I apply in my day-to-day activities.
-### Skills
 
-🛠 Skills and Technologies
-Documentation:
+### 🛠 Skills and Technologies
 
+##Documentation:
 Writing User Stories and Use Cases.
-
 Updating documentation.
-
 Creating REST API specifications using Swagger.
 
-Diagrams and Modeling:
-
+##Diagrams and Modeling:
 Sequence diagrams, Use Case diagrams, BPMN, ERD.
-
 Tools: Draw.io, Lucidchart, Visio.
 
-Database Design:
-
+##Database Design:
 Working with PostgreSQL and MySQL.
-
 Editing ER diagrams.
 
-Integrations:
-
+##Integrations:
 REST API, Apache Kafka (message broker).
-
 Describing methods, services, status codes, and JSON document structures.
 
-Testing:
-
+##Testing:
 API testing using Postman.
 
-Interface Prototyping:
-
+##Interface Prototyping:
 Tools: Figma, Axure RP, Balsamiq.
-
 Developing and maintaining interfaces using HTML5 and CSS3.
 
-Project Management:
-
+##Project Management:
 Organizing workflows in Jira.
-
 Maintaining documentation in Confluence.
-
 Applying Agile methodologies (Scrum, Kanban).
 
 ### Socials
