@@ -33,6 +33,47 @@ Organizing workflows in Jira.<br>
 Maintaining documentation in Confluence.<br>
 Applying Agile methodologies (Scrum, Kanban).
 
+# 🚀 Project Examples
+1. Designing and Documenting REST API
+Describing methods and services.
+
+Documenting using Swagger.
+
+Example JSON document structure:
+
+json
+Copy
+{
+  "userId": 1,
+  "title": "Example Request",
+  "completed": false
+}
+2. Business Process Modeling
+Creating BPMN diagrams for process optimization.
+
+Example Use Case diagram:
+Use Case Diagram
+
+3. Microservices Integration via Apache Kafka
+Describing interactions between services.
+
+Example Kafka configuration:
+
+yaml
+Copy
+brokers:
+  - localhost:9092
+topic: example_topic
+4. Interface Prototyping
+Creating prototypes in Figma.
+
+Example interface:
+Figma Prototype
+
+
+
+
+
 # Socials
 
 <p align="left"> <a href="https://www.github.com/Halavyryn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andrei-halavyryn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
