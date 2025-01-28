@@ -2,18 +2,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 My name is Andrei Halavyryn, and I am a IT Analyst with experience in designing, documenting, and optimizing processes. Here, you'll find examples of my work, projects, and the skills I apply in my day-to-day activities.
 
-### 🛠 Skills and Technologies
+# 🛠 Skills and Technologies
 
-# Documentation:
+### Documentation:
 Writing User Stories and Use Cases.<br>
 Updating documentation.<br>
 Creating REST API specifications using Swagger.
 
-# Diagrams and Modeling:
+### Diagrams and Modeling:
 Sequence diagrams, Use Case diagrams, BPMN, ERD.<br>
 Tools: Draw.io, Lucidchart, Visio.
 
-# Database Design:
+### Database Design:
 Working with PostgreSQL and MySQL.<br>
 Editing ER diagrams.
 
@@ -21,19 +21,19 @@ Editing ER diagrams.
 REST API, Apache Kafka (message broker).<br>
 Describing methods, services, status codes, and JSON document structures.
 
-# Testing:
+### Testing:
 API testing using Postman.<br>
 
-# Interface Prototyping:
+### Interface Prototyping:
 Tools: Figma, Axure RP, Balsamiq.<br>
 Developing and maintaining interfaces using HTML5 and CSS3.
 
-# Project Management:
+### Project Management:
 Organizing workflows in Jira.<br>
 Maintaining documentation in Confluence.<br>
 Applying Agile methodologies (Scrum, Kanban).
 
-### Socials
+# Socials
 
 <p align="left"> <a href="https://www.github.com/Halavyryn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andrei-halavyryn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
