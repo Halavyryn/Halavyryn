@@ -39,7 +39,7 @@ Applying Agile methodologies (Scrum, Kanban).
 </div>
 
 <h1>
-  hey there
+  Views counter
   <img src="https://komarev.com/ghpvc/?username=Halavyryn&style=flat-square&color=blue" alt=""/>
 </h1>
 
