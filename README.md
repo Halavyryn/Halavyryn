@@ -4,7 +4,7 @@ My name is Andrei Halavyryn, and I am a IT Analyst with experience in designing,
 
 ### 🛠 Skills and Technologies
 
-## Documentation:
+# Documentation:
 Writing User Stories and Use Cases.
 Updating documentation.
 Creating REST API specifications using Swagger.
