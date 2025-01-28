@@ -17,7 +17,7 @@ Tools: Draw.io, Lucidchart, Visio.
 Working with PostgreSQL and MySQL.<br>
 Editing ER diagrams.
 
-# Integrations:
+### Integrations:
 REST API, Apache Kafka (message broker).<br>
 Describing methods, services, status codes, and JSON document structures.
 
